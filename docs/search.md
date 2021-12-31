@@ -1,2 +1,7 @@
+---
+description: Search for articles
+sidebar_position: 3
+---
+
 # Search
-soon
+Coming soon!
