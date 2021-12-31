@@ -1,6 +1,5 @@
 ---
 description: Shows you how to set your default gamemode on your Minehut server.
-name: faq/panel/default-gamemode
 ---
 
 # Default Gamemode

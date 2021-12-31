@@ -2,7 +2,6 @@
 description: >-
     If your server is lagging, one of the best ways to figure out why and what is
     causing it.
-name: faq/ingame/timings
 ---
 
 # Timings

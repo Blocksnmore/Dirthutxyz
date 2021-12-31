@@ -1,6 +1,5 @@
 ---
 description: An informative list on the allowed file types on Minehut.
-name: faq/panel/files
 ---
 
 # Allowed File types

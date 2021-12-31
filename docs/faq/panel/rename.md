@@ -1,6 +1,5 @@
 ---
 description: How to rename your Minehut server.
-name: faq/panel/rename
 ---
 
 # Rename

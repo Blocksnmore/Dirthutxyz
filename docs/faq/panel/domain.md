@@ -1,6 +1,5 @@
 ---
 description: Connect a custom domain to your Minehut server.
-name: faq/panel/domain
 ---
 
 # Custom Domain

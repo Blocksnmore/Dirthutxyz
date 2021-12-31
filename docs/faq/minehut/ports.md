@@ -1,6 +1,5 @@
 ---
 description: Learn about Minehut's server ports.
-name: faq/minehut/ports
 ---
 
 # Ports

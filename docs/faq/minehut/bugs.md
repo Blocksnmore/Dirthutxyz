@@ -1,6 +1,5 @@
 ---
 description: How to report a bug you've found.
-name: faq/minehut/bugs
 ---
 
 # Bugs

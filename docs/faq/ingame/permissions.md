@@ -1,6 +1,5 @@
 ---
 description: Learn how to give players permissions to do commands.
-name: faq/ingame/permissions
 ---
 
 # Permissions

@@ -1,6 +1,5 @@
 ---
 description: How to make a user a Server Operator (or revoke those permissions)!
-name: faq/ingame/op
 ---
 
 # Server Operator

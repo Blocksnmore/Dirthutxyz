@@ -1,6 +1,5 @@
 ---
 description: Learn how to upload Datapacks to your Minehut server.
-name: faq/panel/datapacks
 ---
 
 # Data Packs

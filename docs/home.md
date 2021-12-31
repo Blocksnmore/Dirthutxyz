@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Welcome... to minehut.xyz
 
-Minehut.xyz is home to the best Minehut-related support you'll find on the web. We aim to provide top quality [Minehut tutorials](/faq/panel), [Plugin tutorials](/plugins/popular), and [Skript tutorials](/skript/basics). Our site is [community driven](/contribute), and we will continue to make it better and better.
+Minehut.xyz is home to the best Minehut-related support you'll find on the web. We aim to provide top quality [Minehut tutorials](/faq/minehut/a-full-tutorial), [Plugin tutorials](/plugins/popular), and [Skript tutorials](/skript/basics). Our site is [community driven](/contribute), and we will continue to make it better and better.
 
 :::info
 Utilise our Search function at the top righthand corner of the site, it's so helpful to find your question within our site.

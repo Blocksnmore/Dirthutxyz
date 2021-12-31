@@ -1,6 +1,5 @@
 ---
 description: Learn how to set a custom seed for your server.
-name: faq/panel/custom-seed
 ---
 
 # Custom Seed

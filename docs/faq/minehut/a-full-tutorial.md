@@ -1,6 +1,5 @@
 ---
 descritpion: A full Minehut tutorial.
-name: faq/minehut/a-full-tutorial
 ---
 
 # Full Tutorial

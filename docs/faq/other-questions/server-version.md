@@ -1,6 +1,5 @@
 ---
 description: Learn how Minehut's Server Version works.
-name: faq/other-questions/server-version
 ---
 
 # Server Version

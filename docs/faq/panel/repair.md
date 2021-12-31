@@ -1,6 +1,5 @@
 ---
 description: Learn how to repair your server's files.
-name: faq/panel/repair
 madeBy: KikoPT1234
 madeByLink: https://github.com/KikoPT1234
 ---

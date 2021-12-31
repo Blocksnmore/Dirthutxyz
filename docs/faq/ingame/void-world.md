@@ -1,6 +1,5 @@
 ---
 description: Learn how to make a void world with Multiverse!
-name: faq/ingame/void-world
 ---
 
 # Creating a Void World

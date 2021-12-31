@@ -1,6 +1,5 @@
 ---
 description: Learn how to disable messages on the Minehut network.
-name: faq/minehut/disable-messages
 ---
 
 # Disable Messages

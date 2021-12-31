@@ -1,6 +1,5 @@
 ---
 description: Learn about Minehut's voting system.
-name: faq/minehut/voting
 ---
 
 # Voting

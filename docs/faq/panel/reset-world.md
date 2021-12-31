@@ -1,6 +1,5 @@
 ---
 description: Learn how to reset your world.
-name: faq/panel/reset-world
 ---
 
 # Reset World

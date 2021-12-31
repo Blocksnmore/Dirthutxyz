@@ -1,6 +1,5 @@
 ---
 description: Learn how to create OP tools on your Minehut server.
-name: faq/other-questions/op-tools
 ---
 
 # OP Tools

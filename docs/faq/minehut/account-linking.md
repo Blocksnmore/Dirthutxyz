@@ -1,6 +1,5 @@
 ---
 description: Learn how to link your Minehut account.
-name: faq/minehut/account-linking
 ---
 
 # Linking

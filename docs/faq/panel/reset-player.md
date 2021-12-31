@@ -1,6 +1,5 @@
 ---
 description: Learn how to reset player data.
-name: faq/panel/reset-player
 ---
 
 # Reset Player

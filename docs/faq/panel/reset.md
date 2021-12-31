@@ -1,6 +1,5 @@
 ---
 description: Learn how to reset your server.
-name: faq/panel/reset
 ---
 
 # Reset Server

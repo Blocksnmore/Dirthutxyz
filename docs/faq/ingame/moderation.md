@@ -1,6 +1,5 @@
 ---
 description: "How to kick, ban, unban, and more. User moderation in general."
-name: faq/ingame/moderation
 ---
 
 # Moderation

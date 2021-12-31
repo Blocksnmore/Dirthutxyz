@@ -1,6 +1,5 @@
 ---
 description: Learn how to report users on Minehut.
-name: faq/minehut/reporting
 ---
 
 # Report

@@ -1,6 +1,5 @@
 ---
 description: "If you want to download your Minehut server, it (should be) simple and easy."
-name: faq/ingame/download
 ---
 
 # Downloading

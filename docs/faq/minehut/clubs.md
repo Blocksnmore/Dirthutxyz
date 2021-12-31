@@ -1,6 +1,5 @@
 ---
 description: Learn how to create a Forums club.
-name: faq/minehut/clubs
 ---
 
 # Forums Club

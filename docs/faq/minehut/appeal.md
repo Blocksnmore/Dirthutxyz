@@ -1,6 +1,5 @@
 ---
 description: Learn how to appeal on Minehut.
-name: faq/minehut/appeal
 ---
 
 # Appeal

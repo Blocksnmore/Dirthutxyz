@@ -2,7 +2,6 @@
 description: >-
     Minehut allows you to change your world into a flat world, this can be useful
     for a build server!
-name: faq/panel/flat-world
 madeBy: PandaChan
 ---
 

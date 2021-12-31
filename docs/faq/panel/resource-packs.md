@@ -1,6 +1,5 @@
 ---
 description: Learn everything there is to know about your server and resource packs.
-name: faq/panel/resource-packs
 ---
 
 # Resource Packs

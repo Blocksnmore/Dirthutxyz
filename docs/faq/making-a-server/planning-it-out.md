@@ -1,6 +1,5 @@
 ---
 description: Making a high quality Minehut server pt. 1
-name: faq/making-a-server/planning-it-out
 ---
 
 # Planning it out

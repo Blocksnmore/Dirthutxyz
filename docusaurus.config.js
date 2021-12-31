@@ -39,10 +39,10 @@ module.exports = {
 		({
 			hideableSidebar: true,
 			navbar: {
-				title: "My Site",
+				title: "MinehutXYZ",
 				logo: {
-					alt: "My Site Logo",
-					src: "img/logo.svg",
+					alt: "MinehutXYZ Logo",
+					src: "img/favicon.ico",
 				},
 				items: [
 					{

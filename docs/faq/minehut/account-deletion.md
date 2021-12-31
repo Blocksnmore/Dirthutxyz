@@ -1,6 +1,5 @@
 ---
 description: How to delete your Minehut account.
-name: faq/minehut/account-deletion
 ---
 
 # Account Deletion

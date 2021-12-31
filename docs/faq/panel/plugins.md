@@ -1,6 +1,5 @@
 ---
 description: Learn how to manage plugins on your Minehut server.
-name: faq/panel/plugins
 ---
 
 # Installing Plugins

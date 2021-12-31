@@ -2,7 +2,6 @@
 description: >-
     Learn how to use and make homes for yourself and server members. Including
     permissions, multiple home managment and home deletion.
-name: skript/examples/homes
 madeBy: Rqdioqctive
 madeByLink: https://github.com/Rqdioqctive
 ---

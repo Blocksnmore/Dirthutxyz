@@ -1,6 +1,5 @@
 ---
 description: Cracked clients are not able to join Minehut.
-name: faq/minehut/cracked-clients
 ---
 
 # Cracked Minecraft

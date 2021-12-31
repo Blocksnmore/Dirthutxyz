@@ -1,6 +1,5 @@
 ---
 description: "Learn how to join the Minehut network, and your own Minehut server."
-name: faq/minehut/joining
 ---
 
 # Joining

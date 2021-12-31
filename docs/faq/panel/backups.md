@@ -1,6 +1,5 @@
 ---
 description: Learn how to use Minehut's backup system!
-name: faq/panel/backups
 ---
 
 # Backups

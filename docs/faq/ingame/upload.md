@@ -1,6 +1,5 @@
 ---
 description: Learn how to upload worlds to your Minehut server.
-name: faq/ingame/upload
 ---
 
 # Uploading Worlds

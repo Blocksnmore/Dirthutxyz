@@ -1,6 +1,5 @@
 ---
 description: Learn how to edit the World Border on your Minehut server.
-name: faq/ingame/world-border
 ---
 
 # World Border

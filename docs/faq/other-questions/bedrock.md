@@ -1,6 +1,5 @@
 ---
 description: How to connect to a Minehut server on Minecraft Bedrock Edition.
-name: faq/other-questions/bedrock
 ---
 
 # Bedrock Edition

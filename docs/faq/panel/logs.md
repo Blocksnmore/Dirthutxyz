@@ -1,6 +1,5 @@
 ---
 description: How to retrieve your latest.log
-name: faq/panel/logs
 ---
 
 # Logs

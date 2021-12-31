@@ -1,6 +1,5 @@
 ---
 description: Learn how to whitelist (allow and disallow certin players) on your server.
-name: faq/ingame/whitelist
 ---
 
 # Whitelist
