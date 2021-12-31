@@ -7,9 +7,9 @@ sidebar_position: 1
 
 ![](/img/skript.png)
 
-<Hint severity="warning">
-Visit our <a href="https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA">partner YouTube channel</a> for even more tutorials!
-</Hint>
+:::caution
+Visit our [partner YouTube channel](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA) for even more tutorials!
+:::
 
 ## OVERVIEW
 

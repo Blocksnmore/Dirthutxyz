@@ -15,6 +15,6 @@ on chat:
  set chat format to "%player%: %message%"
 ```
 
-<Hint severity="info">
-You can use things such as <inlineCode>%player's prefix%</inlineCode> if you have Essentials & Vault installed.
-</Hint>
+::info
+You can use things such as `%player's prefix%` if you have Essentials & Vault installed.
+:::
